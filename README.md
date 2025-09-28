@@ -1,9 +1,8 @@
 # Hey there! I'm Gowsi 👩‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Angular+Expert;AI+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Angular+Enthusiast;AI+%26+Finance+Tech+Explorer;Turning+Ideas+into+Real+Solutions;Problem+Solver" alt="Typing SVG" />
 </div>
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/GowsiSM?label=Followers&style=for-the-badge&color=FF6B9D" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
@@ -55,24 +54,13 @@
 </div>
 
 ---
+## 🏆 GitHub Trophies
 
-## 🎯 What I'm Building
-
-```javascript
-const currentProjects = {
-  focus: ["Modern Web Apps", "AI Integration", "Finance Tech"],
-  learning: ["Machine Learning", "Cloud Architecture", "System Design"],
-  goals2025: [
-    "🚀 Master React performance optimization",
-    "📚 Contribute to 3+ open-source projects", 
-    "🌟 Mentor aspiring developers",
-    "🤖 Build ML-powered applications"
-  ]
-};
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GowsiSM&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
 ---
-
 ## 🌐 Let's Connect!
 
 <div align="center">
