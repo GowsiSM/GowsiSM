@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Angular+Enthusiast;AI+%26+Finance+Tech+Explorer;Turning+Ideas+into+Real+Solutions;Problem+Solver" alt="Typing SVG" />
 </div>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/GowsiSM?label=Followers&style=for-the-badge&color=FF6B9D" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
@@ -12,13 +13,10 @@
 
 ## 🚀 About Me
 
-🎓 **CSE Student** | **Easwari Engineering College**, Chennai
-
-💻 **Full-Stack Dev** turning ideas into interactive digital experiences
-
-🌱 **Exploring**: AI, Finance Tech & modern web frameworks
-
-🎯 **Goal**: Build tech that matters, solve real-world problems
+🎓 **CSE Student** | **Easwari Engineering College**, Chennai  
+💻 **Full-Stack Dev** turning ideas into interactive digital experiences  
+🌱 **Exploring**: AI, Finance Tech & modern web frameworks  
+🎯 **Goal**: Build tech that matters, solve real-world problems  
 
 > *"The best way to predict the future is to create it."*
 
@@ -54,6 +52,7 @@
 </div>
 
 ---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -61,6 +60,13 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 🌐 Let's Connect!
 
 <div align="center">
