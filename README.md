@@ -60,6 +60,14 @@
 
 ---
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
+---
+
 ## 🌐 Let's Connect!
 
 <div align="center">
