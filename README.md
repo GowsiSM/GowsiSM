@@ -1,5 +1,4 @@
 # Hey there! I'm Gowsi 👩‍💻
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Angular+Enthusiast;AI+%26+Finance+Tech+Explorer;Turning+Ideas+into+Real+Solutions;Problem+Solver" alt="Typing SVG" />
 </div>
@@ -48,7 +47,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowsiSM&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GowsiSM&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -58,13 +57,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GowsiSM&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
 
 ---
 
@@ -82,7 +74,7 @@
 
 <div align="center">
   
-### 💡 *"Turning coffee into code and ideas into reality!"* ☕✨
+### 💡 *"From bugs to features – that's the dev life!" 🐛➡️✨* 
 
 **Ready to collaborate? Let's build something amazing together! 🚀**
 
