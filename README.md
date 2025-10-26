@@ -55,7 +55,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GowsiSM&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GowsiSM&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ---
