@@ -50,6 +50,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=GowsiSM&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
