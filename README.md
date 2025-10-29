@@ -81,7 +81,6 @@
 **Ready to collaborate? Let's build something amazing together! 🚀**
 
 </div>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" />
 
 <div align="right">
   <b><a href="#hey-there-im-gowsi-">↑ Back to Top</a></b>
