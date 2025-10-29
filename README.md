@@ -23,19 +23,15 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<div align="center">
+  <h3>Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,js,ts&perline=5" alt="Tech Stack" />
+</div>
 
-### Styling & Tools
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<div align="center">
+  <h3>Styling & Tools</h3>  
+  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,git,vite&perline=5" alt="Tech Stack" />
+</div>
 
 ---
 
@@ -85,8 +81,7 @@
 **Ready to collaborate? Let's build something amazing together! 🚀**
 
 </div>
-
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" />
 
 <div align="right">
   <b><a href="#hey-there-im-gowsi-">↑ Back to Top</a></b>
