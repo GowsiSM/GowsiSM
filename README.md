@@ -75,7 +75,7 @@
 
 <div align="center">
   
-### 💡 *"From bugs to features – that's the dev life!" 🐛➡️✨* 
+### *"From bugs to features – that's the dev life!" * 
 
 **Ready to collaborate? Let's build something amazing together! 🚀**
 
