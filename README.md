@@ -1,4 +1,4 @@
-# Hey there! I'm Gowsi 👩‍💻
+# Hey there! I'm Gowsi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Angular+Enthusiast;AI+%26+Finance+Tech+Explorer;Turning+Ideas+into+Real+Solutions;Problem+Solver" alt="Typing SVG" />
@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/GowsiSM?label=Followers&style=for-the-badge&color=FF6B9D" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
-  <img src="https://komarev.com/ghpvc/?username=GowsiSM&style=for-the-badge&color=FF6B9D" alt="Profile Views" />
 </p>
 
 ---
