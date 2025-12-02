@@ -5,7 +5,6 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/GowsiSM?label=Followers&style=for-the-badge&color=FF6B9D" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
 </p>
 
