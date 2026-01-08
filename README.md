@@ -9,11 +9,9 @@
 
 ---
 
-## About Me
+## 🚀 What I'm Building
 
-💻 **Full-Stack Developer** turning ideas into interactive digital experiences  
-🌱 **Exploring**: AI, Finance Tech & modern web frameworks  
-🎯 **Goal**: Build tech that matters, solve real-world problems  
+**Currently shipping:** [motion-kit](https://github.com/GowsiSM/motion-kit) – A modern React animation library focused on developer experience and buttery-smooth micro-interactions.
 
 > *"The best way to predict the future is to create it."*
 
@@ -66,7 +64,15 @@
 
 ---
 
-## Let's Connect!
+## 🤝 Let's Collaborate!
+
+I'm always open to:
+- 💼 Freelance opportunities
+- 🚀 Open source contributions
+- 💡 Interesting project ideas
+- ☕ Tech conversations
+
+## Reach out!
 
 <div align="center">
   
