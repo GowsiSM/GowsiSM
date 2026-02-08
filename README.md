@@ -57,18 +57,16 @@
 
 ---
 
-## 📊 GitHub Activity
+## 🐍 Contribution Snake
 
 <div align="center">
-
-### Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/pacman-contribution-graph.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/github-snake.svg">
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/github-snake-dark.svg">
+  </picture>
 </div>
+
 ---
 
 ## 🤝 Let's Collaborate!
@@ -101,7 +99,6 @@ I'm always open to:
 
 ---
 
-<div align="center">
 <div align="right">
   <b><a href="#hey-there-im-gowsi-">↑ Back to Top</a></b>
 </div>
