@@ -16,7 +16,7 @@
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
   
@@ -77,7 +77,7 @@ I'm always open to:
 - 💡 Interesting project ideas
 - ☕ Tech conversations
 
-## Reach out!
+## 📫 Reach out!
 
 <div align="center">
   
