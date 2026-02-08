@@ -1,4 +1,3 @@
-
 # Hey there! I'm Gowsi 👋
 
 <div align="center">
@@ -37,7 +36,7 @@
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GowsiSM&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -50,7 +49,7 @@
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GowsiSM&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -58,10 +57,18 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+## 📊 GitHub Activity
 
+<div align="center">
+
+### Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/GowsiSM/GowsiSM/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 ---
 
 ## 🤝 Let's Collaborate!
@@ -91,10 +98,10 @@ I'm always open to:
 **Ready to collaborate? Let's build something amazing together! 🚀**
 
 </div> 
+
 ---
 
 <div align="center">
 <div align="right">
   <b><a href="#hey-there-im-gowsi-">↑ Back to Top</a></b>
 </div>
-
