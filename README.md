@@ -10,7 +10,7 @@
 
 ## 🚀 What I'm Building
 
-**Currently shipping:** [motion-kit](https://github.com/GowsiSM/motion-kit) – A modern React animation library focused on developer experience and buttery-smooth micro-interactions.
+**Currently shipping:** [Spectre-Link](https://github.com/GowsiSM/SpectreLink) 
 
 > *"The best way to predict the future is to create it."*
 
@@ -33,27 +33,6 @@
 <img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,postgres&perline=4" alt="Databases" />
 
 </div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GowsiSM&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowsiSM&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GowsiSM&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GowsiSM&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
 
 ---
 
