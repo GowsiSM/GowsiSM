@@ -36,6 +36,16 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  
+  <img height="170" src="https://github-readme-stats-vishokbadri-k-s-projects.vercel.app/api?username=GowsiSM&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats-vishokbadri-k-s-projects.vercel.app/api/top-langs/?username=GowsiSM&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</p>
+
+---
 ## 🤝 Let's Collaborate!
 
 I'm always open to:
